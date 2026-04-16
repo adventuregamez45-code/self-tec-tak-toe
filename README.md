@@ -1,0 +1,1 @@
+This is the self play AI for playing tic tak toe with you just simply forts run the train.py to get the neural networks to train neural networks are small about 2000 so its enough to trian on your phone and then once its done simply play the play.py and start playing
